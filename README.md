@@ -10,7 +10,7 @@ The biggest point of this repository is to show what different technologies exis
 - Self Balancing Robot
 - Robotic Arm
 - [Gaze Controlled Robot](https://github.com/cyliakh/Gaze-controlled-robot/blob/main/README.md)
-- Solar Tracker
+- [Solar Tracker](https://github.com/AHZ456/Solar-Tracker-Project)
 
 ## Internet Of Things:
 - Room Access Control System with ESP32
